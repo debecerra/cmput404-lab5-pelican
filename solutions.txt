@@ -1,0 +1,9 @@
+Question 1: What are some of the benefits of using a static site generator? What are some disadvantages?
+
+One advantage of a static site generator is that it is easy to reuse parts of code and write less code as a whole. For example, using Pelican we can standardize CSS styling and HTML formating by creating and reusing templates. Another advantage is that we can add more structure to our project and abstract away the finer details. For example, with Pelican we can place all of our articles in the contents folder. We just have to follow the format for defining the article and don't need to worry about how exactly it is converted into HTML. 
+
+One disadvantage is that we have slightly less flexibility when working with a static site generator. We have to work within the Pelican framework. If we want to do something that Pelican does not support or easily allow, we have to use basic HTML/CSS pages or find another solution.
+
+
+
+Question 2: https://debecerra.github.io/cmput404-lab5-pelican/
